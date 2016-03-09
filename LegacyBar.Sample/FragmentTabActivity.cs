@@ -28,6 +28,8 @@ using LegacyBar.Library.Adapters;
 using LegacyBar.Library.BarActions;
 using LegacyBar.Library.BarBase;
 
+using Fragment = Android.Support.V4.App.Fragment;
+
 namespace LegacyBar.Sample
 {
     [Activity(Label = "Fragment Demo", MainLauncher = false, LaunchMode = LaunchMode.SingleTop,
